@@ -2,6 +2,11 @@
   "name": "bangla-quran-next",
   "version": "0.1.0",
   "private": true,
+  "author": "Riad Monir <riyadkhan013@gmail.com> (https://github.com/riadmonir)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riadmonir/bangla-quran.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

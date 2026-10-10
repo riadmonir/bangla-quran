@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   title: siteTitle,
   description: siteDescription,
   applicationName: siteName,
+  authors: [{ name: 'Riad Monir', url: 'https://github.com/riadmonir' }],
+  creator: 'Riad Monir',
+  publisher: 'Riad Monir',
   keywords: [
     'বাংলা কোরআন',
     'কোরআন বাংলা অনুবাদ',
