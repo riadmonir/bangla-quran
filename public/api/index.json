@@ -1,0 +1,31 @@
+{
+  "name": "DeenOne Bangla Quran Official API",
+  "version": "1.0.0",
+  "description": "Ultra-fast, globally edge-cached static REST API for the Holy Quran with Arabic text, Bangla translation, audio streams, and Bangla Tafsir.",
+  "baseUrl": "https://banglaquran.deenone.top",
+  "endpoints": [
+    {
+      "name": "All Surahs List",
+      "method": "GET",
+      "path": "/api/surahs.json",
+      "url": "https://banglaquran.deenone.top/api/surahs.json",
+      "description": "Returns the complete list of 114 Surahs with metadata and audio links."
+    },
+    {
+      "name": "Surah Details & Ayahs",
+      "method": "GET",
+      "path": "/api/sura/{id}.json",
+      "example": "https://banglaquran.deenone.top/api/sura/1.json",
+      "description": "Returns all ayahs for the requested surah (1 to 114) with Arabic text, Bengali translation, and ayah audio URLs."
+    },
+    {
+      "name": "Surah Bangla Tafsir",
+      "method": "GET",
+      "path": "/api/tafsir/{id}.json",
+      "example": "https://banglaquran.deenone.top/api/tafsir/1.json",
+      "description": "Returns Bengali Tafsir (Abu Bakr Zakaria) mapped by ayah number."
+    }
+  ],
+  "cachePolicy": "Edge CDN Cached (Cloudflare). Instant TTFB (<20ms).",
+  "cors": "Access-Control-Allow-Origin: * enabled for all clients."
+}
