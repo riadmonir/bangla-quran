@@ -29,7 +29,7 @@ Web application for reading the Quran with Bangla translation and tafsir.
 
 ```bash
 # Clone and install
-git clone https://github.com/imranpollob/bangla-quran.git
+git clone https://github.com/riadmonir/bangla-quran.git
 cd bangla-quran
 npm install
 

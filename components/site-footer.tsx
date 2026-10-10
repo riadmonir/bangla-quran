@@ -4,8 +4,8 @@ import { usePathname } from 'next/navigation';
 import { getSuraById } from '@/lib/data/suras';
 import { siteUrl } from '@/lib/seo';
 
-const repoUrl = 'https://github.com/imranpollob/bangla-quran';
-const authorUrl = 'https://github.com/imranpollob';
+const repoUrl = 'https://github.com/riadmonir/bangla-quran';
+const authorUrl = 'https://github.com/riadmonir';
 
 function buildIssueUrl(pathname: string | null) {
   const match = pathname?.match(/^\/sura\/(\d+)/);
@@ -34,7 +34,7 @@ export default function SiteFooter() {
         <span>
           বানিয়েছেন: {' '}
           <a className="site-footer-link" href={authorUrl} target="_blank" rel="noopener noreferrer">
-            Imran Pollob
+            Riad Monir
           </a>
         </span>
         <a
