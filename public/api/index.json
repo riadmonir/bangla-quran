@@ -1,25 +1,42 @@
 {
-  "name": "DeenOne Bangla Quran Official API",
-  "version": "1.0.0",
-  "description": "Ultra-fast, globally edge-cached static REST API for the Holy Quran with Arabic text, Bangla translation, audio streams, and Bangla Tafsir.",
+  "name": "DeenOne Bangla Quran Official All-in-One API",
+  "version": "2.0.0",
+  "description": "Ultra-fast, globally edge-cached static REST API for the Holy Quran with Arabic text, Bangla translation, Dual Audio streams (Arabic & Bangla BT), and Bangla Tafsir.",
   "baseUrl": "https://banglaquran.deenone.top",
+  "audioTypes": {
+    "arabic": "Mishary Rashid Alafasy / Arabic Recitation (/audio/arabic/...)",
+    "bangla": "Bengali Translation Audio - BT (/audio/bt/...)"
+  },
   "endpoints": [
     {
-      "name": "All Surahs List",
+      "name": "All Surahs List (Dual Audio)",
       "method": "GET",
       "path": "/api/surahs.json",
       "url": "https://banglaquran.deenone.top/api/surahs.json",
-      "description": "Returns the complete list of 114 Surahs with metadata and audio links."
+      "description": "Returns the complete list of 114 Surahs with metadata and both Arabic and Bangla audio links."
     },
     {
-      "name": "Surah Details & Ayahs",
+      "name": "All-in-One Surah (Arabic, Bangla, Arabic Audio, Bangla Audio, Tafsir)",
       "method": "GET",
       "path": "/api/sura/{id}.json",
       "example": "https://banglaquran.deenone.top/api/sura/1.json",
-      "description": "Returns all ayahs for the requested surah (1 to 114) with Arabic text, Bengali translation, and ayah audio URLs."
+      "aliases": [
+        "https://banglaquran.deenone.top/api/sura/001.json",
+        "https://banglaquran.deenone.top/api/surah/1.json",
+        "https://banglaquran.deenone.top/api/surah/001.json"
+      ],
+      "description": "Returns all ayahs for the requested surah with Arabic text, Bengali translation, Arabic audio URL (audioArabic), Bangla audio URL (audioBangla), and embedded Bengali Tafsir for every ayah."
     },
     {
-      "name": "Surah Bangla Tafsir",
+      "name": "Complete Quran All-in-One (All 114 Surahs)",
+      "method": "GET",
+      "path": "/api/quran-all-in-one.json",
+      "url": "https://banglaquran.deenone.top/api/quran-all-in-one.json",
+      "alias": "https://banglaquran.deenone.top/api/quran.json",
+      "description": "The entire Holy Quran in a single JSON payload with all 114 surahs, ayahs, Arabic, Bangla, dual audio URLs, and tafsir."
+    },
+    {
+      "name": "Surah Bangla Tafsir Only",
       "method": "GET",
       "path": "/api/tafsir/{id}.json",
       "example": "https://banglaquran.deenone.top/api/tafsir/1.json",

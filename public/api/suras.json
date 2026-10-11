@@ -9,7 +9,12 @@
       "nameAr": "الفاتحة",
       "ayahCount": 7,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/001001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/001001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/1-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/001001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/1-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/1/al-fatihah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/1.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/1.json"
@@ -21,7 +26,12 @@
       "nameAr": "البقرة",
       "ayahCount": 286,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/002001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/002001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/2-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/002001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/2-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/2/al-baqarah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/2.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/2.json"
@@ -33,7 +43,12 @@
       "nameAr": "آل عمران",
       "ayahCount": 200,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/003001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/003001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/3-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/003001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/3-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/3/ali-imran",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/3.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/3.json"
@@ -45,7 +60,12 @@
       "nameAr": "النساء",
       "ayahCount": 176,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/004001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/004001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/4-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/004001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/4-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/4/an-nisa",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/4.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/4.json"
@@ -57,7 +77,12 @@
       "nameAr": "المائدة",
       "ayahCount": 120,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/005001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/005001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/5-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/005001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/5-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/5/al-maidah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/5.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/5.json"
@@ -69,7 +94,12 @@
       "nameAr": "الأنعام",
       "ayahCount": 165,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/006001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/006001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/6-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/006001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/6-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/6/al-anam",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/6.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/6.json"
@@ -81,7 +111,12 @@
       "nameAr": "الأعراف",
       "ayahCount": 206,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/007001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/007001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/7-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/007001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/7-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/7/al-araf",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/7.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/7.json"
@@ -93,7 +128,12 @@
       "nameAr": "الأنفال",
       "ayahCount": 75,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/008001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/008001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/8-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/008001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/8-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/8/al-anfal",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/8.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/8.json"
@@ -105,7 +145,12 @@
       "nameAr": "التوبة",
       "ayahCount": 129,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/009001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/009001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/9-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/009001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/9-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/9/at-tawbah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/9.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/9.json"
@@ -117,7 +162,12 @@
       "nameAr": "يونس",
       "ayahCount": 109,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/010001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/010001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/10-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/010001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/10-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/10/yunus",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/10.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/10.json"
@@ -129,7 +179,12 @@
       "nameAr": "هود",
       "ayahCount": 123,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/011001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/011001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/11-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/011001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/11-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/11/hud",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/11.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/11.json"
@@ -141,7 +196,12 @@
       "nameAr": "يوسف",
       "ayahCount": 111,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/012001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/012001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/12-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/012001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/12-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/12/yusuf",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/12.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/12.json"
@@ -153,7 +213,12 @@
       "nameAr": "الرعد",
       "ayahCount": 43,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/013001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/013001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/13-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/013001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/13-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/13/ar-rad",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/13.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/13.json"
@@ -165,7 +230,12 @@
       "nameAr": "إبراهيم",
       "ayahCount": 52,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/014001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/014001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/14-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/014001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/14-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/14/ibrahim",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/14.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/14.json"
@@ -177,7 +247,12 @@
       "nameAr": "الحجر",
       "ayahCount": 99,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/015001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/015001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/15-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/015001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/15-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/15/al-hijr",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/15.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/15.json"
@@ -189,7 +264,12 @@
       "nameAr": "النحل",
       "ayahCount": 128,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/016001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/016001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/16-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/016001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/16-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/16/an-nahl",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/16.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/16.json"
@@ -201,7 +281,12 @@
       "nameAr": "الإسراء",
       "ayahCount": 111,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/017001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/017001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/17-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/017001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/17-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/17/al-isra",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/17.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/17.json"
@@ -213,7 +298,12 @@
       "nameAr": "الكهف",
       "ayahCount": 110,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/018001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/018001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/18-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/018001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/18-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/18/al-kahf",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/18.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/18.json"
@@ -225,7 +315,12 @@
       "nameAr": "مريم",
       "ayahCount": 98,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/019001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/019001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/19-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/019001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/19-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/19/maryam",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/19.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/19.json"
@@ -237,7 +332,12 @@
       "nameAr": "طه",
       "ayahCount": 135,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/020001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/020001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/20-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/020001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/20-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/20/taha",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/20.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/20.json"
@@ -249,7 +349,12 @@
       "nameAr": "الأنبياء",
       "ayahCount": 112,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/021001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/021001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/21-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/021001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/21-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/21/al-anbya",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/21.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/21.json"
@@ -261,7 +366,12 @@
       "nameAr": "الحج",
       "ayahCount": 78,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/022001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/022001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/22-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/022001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/22-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/22/al-haj",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/22.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/22.json"
@@ -273,7 +383,12 @@
       "nameAr": "المؤمنون",
       "ayahCount": 118,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/023001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/023001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/23-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/023001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/23-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/23/al-muminun",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/23.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/23.json"
@@ -285,7 +400,12 @@
       "nameAr": "النور",
       "ayahCount": 64,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/024001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/024001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/24-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/024001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/24-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/24/an-nur",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/24.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/24.json"
@@ -297,7 +417,12 @@
       "nameAr": "الفرقان",
       "ayahCount": 77,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/025001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/025001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/25-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/025001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/25-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/25/al-furqan",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/25.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/25.json"
@@ -309,7 +434,12 @@
       "nameAr": "الشعراء",
       "ayahCount": 227,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/026001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/026001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/26-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/026001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/26-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/26/ash-shuara",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/26.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/26.json"
@@ -321,7 +451,12 @@
       "nameAr": "النمل",
       "ayahCount": 93,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/027001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/027001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/27-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/027001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/27-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/27/an-naml",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/27.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/27.json"
@@ -333,7 +468,12 @@
       "nameAr": "القصص",
       "ayahCount": 88,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/028001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/028001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/28-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/028001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/28-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/28/al-qasas",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/28.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/28.json"
@@ -345,7 +485,12 @@
       "nameAr": "العنكبوت",
       "ayahCount": 69,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/029001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/029001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/29-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/029001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/29-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/29/al-ankabut",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/29.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/29.json"
@@ -357,7 +502,12 @@
       "nameAr": "الروم",
       "ayahCount": 60,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/030001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/030001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/30-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/030001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/30-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/30/ar-rum",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/30.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/30.json"
@@ -369,7 +519,12 @@
       "nameAr": "لقمان",
       "ayahCount": 34,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/031001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/031001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/31-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/031001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/31-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/31/luqman",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/31.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/31.json"
@@ -381,7 +536,12 @@
       "nameAr": "السجدة",
       "ayahCount": 30,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/032001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/032001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/32-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/032001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/32-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/32/as-sajdah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/32.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/32.json"
@@ -393,7 +553,12 @@
       "nameAr": "الأحزاب",
       "ayahCount": 73,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/033001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/033001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/33-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/033001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/33-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/33/al-ahzab",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/33.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/33.json"
@@ -405,7 +570,12 @@
       "nameAr": "سبأ",
       "ayahCount": 54,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/034001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/034001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/34-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/034001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/34-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/34/saba",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/34.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/34.json"
@@ -417,7 +587,12 @@
       "nameAr": "فاطر",
       "ayahCount": 45,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/035001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/035001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/35-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/035001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/35-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/35/fatir",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/35.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/35.json"
@@ -429,7 +604,12 @@
       "nameAr": "يس",
       "ayahCount": 83,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/036001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/036001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/36-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/036001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/36-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/36/ya-sin",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/36.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/36.json"
@@ -441,7 +621,12 @@
       "nameAr": "الصافات",
       "ayahCount": 182,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/037001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/037001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/37-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/037001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/37-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/37/as-saffat",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/37.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/37.json"
@@ -453,7 +638,12 @@
       "nameAr": "ص",
       "ayahCount": 88,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/038001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/038001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/38-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/038001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/38-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/38/sad",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/38.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/38.json"
@@ -465,7 +655,12 @@
       "nameAr": "الزمر",
       "ayahCount": 75,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/039001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/039001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/39-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/039001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/39-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/39/az-zumar",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/39.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/39.json"
@@ -477,7 +672,12 @@
       "nameAr": "غافر",
       "ayahCount": 85,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/040001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/040001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/40-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/040001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/40-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/40/ghafir",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/40.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/40.json"
@@ -489,7 +689,12 @@
       "nameAr": "فصلت",
       "ayahCount": 54,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/041001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/041001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/41-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/041001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/41-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/41/fussilat",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/41.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/41.json"
@@ -501,7 +706,12 @@
       "nameAr": "الشورى",
       "ayahCount": 53,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/042001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/042001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/42-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/042001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/42-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/42/ash-shuraa",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/42.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/42.json"
@@ -513,7 +723,12 @@
       "nameAr": "الزخرف",
       "ayahCount": 89,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/043001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/043001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/43-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/043001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/43-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/43/az-zukhruf",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/43.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/43.json"
@@ -525,7 +740,12 @@
       "nameAr": "الدخان",
       "ayahCount": 59,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/044001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/044001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/44-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/044001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/44-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/44/ad-dukhan",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/44.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/44.json"
@@ -537,7 +757,12 @@
       "nameAr": "الجاثية",
       "ayahCount": 37,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/045001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/045001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/45-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/045001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/45-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/45/al-jathiyah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/45.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/45.json"
@@ -549,7 +774,12 @@
       "nameAr": "الأحقاف",
       "ayahCount": 35,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/046001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/046001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/46-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/046001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/46-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/46/al-ahqaf",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/46.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/46.json"
@@ -561,7 +791,12 @@
       "nameAr": "محمد",
       "ayahCount": 38,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/047001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/047001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/47-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/047001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/47-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/47/muhammad",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/47.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/47.json"
@@ -573,7 +808,12 @@
       "nameAr": "الفتح",
       "ayahCount": 29,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/048001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/048001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/48-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/048001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/48-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/48/al-fath",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/48.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/48.json"
@@ -585,7 +825,12 @@
       "nameAr": "الحجرات",
       "ayahCount": 18,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/049001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/049001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/49-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/049001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/49-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/49/al-hujurat",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/49.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/49.json"
@@ -597,7 +842,12 @@
       "nameAr": "ق",
       "ayahCount": 45,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/050001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/050001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/50-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/050001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/50-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/50/qaf",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/50.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/50.json"
@@ -609,7 +859,12 @@
       "nameAr": "الذاريات",
       "ayahCount": 60,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/051001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/051001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/51-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/051001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/51-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/51/adh-dhariyat",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/51.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/51.json"
@@ -621,7 +876,12 @@
       "nameAr": "الطور",
       "ayahCount": 49,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/052001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/052001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/52-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/052001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/52-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/52/at-tur",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/52.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/52.json"
@@ -633,7 +893,12 @@
       "nameAr": "النجم",
       "ayahCount": 62,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/053001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/053001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/53-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/053001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/53-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/53/an-najm",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/53.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/53.json"
@@ -645,7 +910,12 @@
       "nameAr": "القمر",
       "ayahCount": 55,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/054001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/054001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/54-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/054001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/54-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/54/al-qamar",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/54.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/54.json"
@@ -657,7 +927,12 @@
       "nameAr": "الرحمن",
       "ayahCount": 78,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/055001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/055001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/55-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/055001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/55-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/55/ar-rahman",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/55.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/55.json"
@@ -669,7 +944,12 @@
       "nameAr": "الواقعة",
       "ayahCount": 96,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/056001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/056001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/56-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/056001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/56-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/56/al-waqiah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/56.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/56.json"
@@ -681,7 +961,12 @@
       "nameAr": "الحديد",
       "ayahCount": 29,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/057001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/057001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/57-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/057001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/57-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/57/al-hadid",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/57.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/57.json"
@@ -693,7 +978,12 @@
       "nameAr": "المجادلة",
       "ayahCount": 22,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/058001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/058001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/58-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/058001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/58-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/58/al-mujadila",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/58.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/58.json"
@@ -705,7 +995,12 @@
       "nameAr": "الحشر",
       "ayahCount": 24,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/059001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/059001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/59-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/059001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/59-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/59/al-hashr",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/59.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/59.json"
@@ -717,7 +1012,12 @@
       "nameAr": "الممتحنة",
       "ayahCount": 13,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/060001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/060001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/60-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/060001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/60-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/60/al-mumtahanah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/60.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/60.json"
@@ -729,7 +1029,12 @@
       "nameAr": "الصف",
       "ayahCount": 14,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/061001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/061001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/61-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/061001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/61-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/61/as-saf",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/61.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/61.json"
@@ -741,7 +1046,12 @@
       "nameAr": "الجمعة",
       "ayahCount": 11,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/062001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/062001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/62-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/062001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/62-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/62/al-jumuah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/62.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/62.json"
@@ -753,7 +1063,12 @@
       "nameAr": "المنافقون",
       "ayahCount": 11,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/063001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/063001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/63-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/063001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/63-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/63/al-munafiqun",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/63.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/63.json"
@@ -765,7 +1080,12 @@
       "nameAr": "التغابن",
       "ayahCount": 18,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/064001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/064001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/64-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/064001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/64-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/64/at-taghabun",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/64.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/64.json"
@@ -777,7 +1097,12 @@
       "nameAr": "الطلاق",
       "ayahCount": 12,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/065001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/065001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/65-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/065001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/65-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/65/at-talaq",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/65.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/65.json"
@@ -789,7 +1114,12 @@
       "nameAr": "التحريم",
       "ayahCount": 12,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/066001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/066001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/66-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/066001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/66-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/66/at-tahrim",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/66.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/66.json"
@@ -801,7 +1131,12 @@
       "nameAr": "الملك",
       "ayahCount": 30,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/067001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/067001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/67-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/067001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/67-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/67/al-mulk",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/67.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/67.json"
@@ -813,7 +1148,12 @@
       "nameAr": "القلم",
       "ayahCount": 52,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/068001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/068001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/68-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/068001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/68-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/68/al-qalam",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/68.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/68.json"
@@ -825,7 +1165,12 @@
       "nameAr": "الحاقة",
       "ayahCount": 52,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/069001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/069001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/69-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/069001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/69-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/69/al-haqqah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/69.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/69.json"
@@ -837,7 +1182,12 @@
       "nameAr": "المعارج",
       "ayahCount": 44,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/070001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/070001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/70-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/070001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/70-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/70/al-maarij",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/70.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/70.json"
@@ -849,7 +1199,12 @@
       "nameAr": "نوح",
       "ayahCount": 28,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/071001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/071001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/71-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/071001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/71-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/71/nuh",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/71.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/71.json"
@@ -861,7 +1216,12 @@
       "nameAr": "الجن",
       "ayahCount": 28,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/072001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/072001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/72-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/072001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/72-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/72/al-jinn",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/72.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/72.json"
@@ -873,7 +1233,12 @@
       "nameAr": "المزمل",
       "ayahCount": 20,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/073001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/073001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/73-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/073001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/73-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/73/al-muzzammil",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/73.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/73.json"
@@ -885,7 +1250,12 @@
       "nameAr": "المدثر",
       "ayahCount": 56,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/074001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/074001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/74-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/074001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/74-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/74/al-muddaththir",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/74.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/74.json"
@@ -897,7 +1267,12 @@
       "nameAr": "القيامة",
       "ayahCount": 40,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/075001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/075001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/75-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/075001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/75-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/75/al-qiyamah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/75.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/75.json"
@@ -909,7 +1284,12 @@
       "nameAr": "الإنسان",
       "ayahCount": 31,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/076001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/076001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/76-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/076001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/76-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/76/al-insan",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/76.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/76.json"
@@ -921,7 +1301,12 @@
       "nameAr": "المرسلات",
       "ayahCount": 50,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/077001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/077001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/77-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/077001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/77-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/77/al-mursalat",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/77.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/77.json"
@@ -933,7 +1318,12 @@
       "nameAr": "النبأ",
       "ayahCount": 40,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/078001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/078001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/78-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/078001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/78-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/78/an-naba",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/78.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/78.json"
@@ -945,7 +1335,12 @@
       "nameAr": "النازعات",
       "ayahCount": 46,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/079001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/079001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/79-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/079001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/79-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/79/an-naziat",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/79.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/79.json"
@@ -957,7 +1352,12 @@
       "nameAr": "عبس",
       "ayahCount": 42,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/080001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/080001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/80-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/080001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/80-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/80/abasa",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/80.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/80.json"
@@ -969,7 +1369,12 @@
       "nameAr": "التكوير",
       "ayahCount": 29,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/081001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/081001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/81-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/081001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/81-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/81/at-takwir",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/81.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/81.json"
@@ -981,7 +1386,12 @@
       "nameAr": "الانفطار",
       "ayahCount": 19,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/082001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/082001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/82-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/082001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/82-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/82/al-infitar",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/82.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/82.json"
@@ -993,7 +1403,12 @@
       "nameAr": "المطففين",
       "ayahCount": 36,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/083001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/083001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/83-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/083001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/83-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/83/al-mutaffifin",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/83.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/83.json"
@@ -1005,7 +1420,12 @@
       "nameAr": "الانشقاق",
       "ayahCount": 25,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/084001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/084001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/84-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/084001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/84-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/84/al-inshiqaq",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/84.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/84.json"
@@ -1017,7 +1437,12 @@
       "nameAr": "البروج",
       "ayahCount": 22,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/085001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/085001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/85-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/085001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/85-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/85/al-buruj",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/85.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/85.json"
@@ -1029,7 +1454,12 @@
       "nameAr": "الطارق",
       "ayahCount": 17,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/086001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/086001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/86-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/086001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/86-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/86/at-tariq",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/86.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/86.json"
@@ -1041,7 +1471,12 @@
       "nameAr": "الأعلى",
       "ayahCount": 19,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/087001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/087001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/87-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/087001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/87-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/87/al-ala",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/87.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/87.json"
@@ -1053,7 +1488,12 @@
       "nameAr": "الغاشية",
       "ayahCount": 26,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/088001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/088001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/88-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/088001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/88-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/88/al-ghashiyah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/88.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/88.json"
@@ -1065,7 +1505,12 @@
       "nameAr": "الفجر",
       "ayahCount": 30,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/089001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/089001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/89-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/089001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/89-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/89/al-fajr",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/89.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/89.json"
@@ -1077,7 +1522,12 @@
       "nameAr": "البلد",
       "ayahCount": 20,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/090001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/090001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/90-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/090001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/90-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/90/al-balad",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/90.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/90.json"
@@ -1089,7 +1539,12 @@
       "nameAr": "الشمس",
       "ayahCount": 15,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/091001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/091001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/91-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/091001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/91-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/91/ash-shams",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/91.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/91.json"
@@ -1101,7 +1556,12 @@
       "nameAr": "الليل",
       "ayahCount": 21,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/092001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/092001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/92-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/092001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/92-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/92/al-layl",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/92.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/92.json"
@@ -1113,7 +1573,12 @@
       "nameAr": "الضحى",
       "ayahCount": 11,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/093001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/093001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/93-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/093001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/93-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/93/ad-duhaa",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/93.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/93.json"
@@ -1125,7 +1590,12 @@
       "nameAr": "الشرح",
       "ayahCount": 8,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/094001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/094001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/94-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/094001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/94-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/94/ash-sharh",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/94.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/94.json"
@@ -1137,7 +1607,12 @@
       "nameAr": "التين",
       "ayahCount": 8,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/095001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/095001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/95-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/095001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/95-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/95/at-tin",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/95.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/95.json"
@@ -1149,7 +1624,12 @@
       "nameAr": "العلق",
       "ayahCount": 19,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/096001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/096001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/96-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/096001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/96-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/96/al-alaq",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/96.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/96.json"
@@ -1161,7 +1641,12 @@
       "nameAr": "القدر",
       "ayahCount": 5,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/097001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/097001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/97-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/097001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/97-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/97/al-qadr",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/97.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/97.json"
@@ -1173,7 +1658,12 @@
       "nameAr": "البينة",
       "ayahCount": 8,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/098001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/098001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/98-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/098001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/98-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/98/al-bayyinah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/98.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/98.json"
@@ -1185,7 +1675,12 @@
       "nameAr": "الزلزلة",
       "ayahCount": 8,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/099001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/099001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/99-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/099001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/99-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/99/az-zalzalah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/99.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/99.json"
@@ -1197,7 +1692,12 @@
       "nameAr": "العاديات",
       "ayahCount": 11,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/100001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/100001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/100-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/100001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/100-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/100/al-adiyat",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/100.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/100.json"
@@ -1209,7 +1709,12 @@
       "nameAr": "القارعة",
       "ayahCount": 11,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/101001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/101001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/101-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/101001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/101-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/101/al-qariah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/101.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/101.json"
@@ -1221,7 +1726,12 @@
       "nameAr": "التكاثر",
       "ayahCount": 8,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/102001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/102001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/102-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/102001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/102-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/102/at-takathur",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/102.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/102.json"
@@ -1233,7 +1743,12 @@
       "nameAr": "العصر",
       "ayahCount": 3,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/103001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/103001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/103-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/103001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/103-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/103/al-asr",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/103.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/103.json"
@@ -1245,7 +1760,12 @@
       "nameAr": "الهمزة",
       "ayahCount": 9,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/104001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/104001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/104-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/104001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/104-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/104/al-humazah",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/104.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/104.json"
@@ -1257,7 +1777,12 @@
       "nameAr": "الفيل",
       "ayahCount": 5,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/105001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/105001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/105-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/105001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/105-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/105/al-fil",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/105.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/105.json"
@@ -1269,7 +1794,12 @@
       "nameAr": "قريش",
       "ayahCount": 4,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/106001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/106001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/106-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/106001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/106-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/106/quraysh",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/106.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/106.json"
@@ -1281,7 +1811,12 @@
       "nameAr": "الماعون",
       "ayahCount": 7,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/107001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/107001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/107-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/107001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/107-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/107/al-maun",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/107.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/107.json"
@@ -1293,7 +1828,12 @@
       "nameAr": "الكوثر",
       "ayahCount": 3,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/108001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/108001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/108-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/108001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/108-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/108/al-kawthar",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/108.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/108.json"
@@ -1305,7 +1845,12 @@
       "nameAr": "الكافرون",
       "ayahCount": 6,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/109001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/109001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/109-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/109001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/109-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/109/al-kafirun",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/109.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/109.json"
@@ -1317,7 +1862,12 @@
       "nameAr": "النصر",
       "ayahCount": 3,
       "revelationPlace": "madani",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/110001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/110001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/110-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/110001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/110-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/110/an-nasr",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/110.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/110.json"
@@ -1329,7 +1879,12 @@
       "nameAr": "المسد",
       "ayahCount": 5,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/111001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/111001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/111-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/111001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/111-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/111/al-masad",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/111.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/111.json"
@@ -1341,7 +1896,12 @@
       "nameAr": "الإخلاص",
       "ayahCount": 4,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/112001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/112001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/112-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/112001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/112-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/112/al-ikhlas",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/112.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/112.json"
@@ -1353,7 +1913,12 @@
       "nameAr": "الفلق",
       "ayahCount": 5,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/113001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/113001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/113-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/113001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/113-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/113/al-falaq",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/113.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/113.json"
@@ -1365,7 +1930,12 @@
       "nameAr": "الناس",
       "ayahCount": 6,
       "revelationPlace": "makki",
-      "audioUrl": "https://banglaquran.deenone.top/audio/arabic/114001.mp3",
+      "audio": {
+        "ar": "https://banglaquran.deenone.top/audio/arabic/114001.mp3",
+        "bn": "https://banglaquran.deenone.top/audio/bt/114-1.mp3"
+      },
+      "audioArabic": "https://banglaquran.deenone.top/audio/arabic/114001.mp3",
+      "audioBangla": "https://banglaquran.deenone.top/audio/bt/114-1.mp3",
       "url": "https://banglaquran.deenone.top/sura/114/an-nas",
       "apiUrl": "https://banglaquran.deenone.top/api/sura/114.json",
       "tafsirApiUrl": "https://banglaquran.deenone.top/api/tafsir/114.json"
