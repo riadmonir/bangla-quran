@@ -37,15 +37,28 @@ export default function SiteFooter() {
             Riad Monir
           </a>
         </span>
-        <a
-          className="site-footer-link"
-          href={buildIssueUrl(pathname)}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          সমস্যা রিপোর্ট করুন {' '}
-          <GitHubIcon />
-        </a>
+        <div style={{ display: 'flex', gap: 16, alignItems: 'center', flexWrap: 'wrap' }}>
+          <a className="site-footer-link" href="/api-docs">
+            ডেভেলপার API
+          </a>
+          <a
+            className="site-footer-link"
+            href="/api/quran.json"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            কুরআন JSON
+          </a>
+          <a
+            className="site-footer-link"
+            href={buildIssueUrl(pathname)}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            সমস্যা রিপোর্ট করুন {' '}
+            <GitHubIcon />
+          </a>
+        </div>
       </div>
     </footer>
   );

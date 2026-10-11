@@ -22,7 +22,8 @@ const HomeIcon = () => (
 
 const navItems: { href: string; label: ReactNode; ariaLabel?: string }[] = [
   { href: '/', label: <HomeIcon />, ariaLabel: 'হোম' },
-  { href: '/saved-ayahs', label: 'সংরক্ষিত আয়াত' }
+  { href: '/saved-ayahs', label: 'সংরক্ষিত আয়াত' },
+  { href: '/api-docs', label: 'API ডকস' }
 ];
 
 export default function SiteHeader() {
